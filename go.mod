@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/beego/beego/v2 v2.0.0
-	github.com/ecnepsnai/web v1.4.0
+	github.com/ecnepsnai/web v1.5.2
 	github.com/uadmin/uadmin v0.4.0
 )
 
