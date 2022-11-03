@@ -3,7 +3,7 @@ module gotest
 go 1.18
 
 require (
-	github.com/beego/beego/v2 v2.0.0
+	github.com/beego/beego/v2 v2.0.4
 	github.com/ecnepsnai/web v1.4.0
 	github.com/uadmin/uadmin v0.4.0
 )
@@ -32,7 +32,7 @@ require (
 	github.com/prometheus/common v0.32.1 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/shiena/ansicolor v0.0.0-20200904210342-c7312218db18 // indirect
-	github.com/stretchr/testify v1.7.0 // indirect
+	github.com/stretchr/testify v1.7.1 // indirect
 	github.com/tealeg/xlsx v1.0.5 // indirect
 	github.com/uadmin/rrd v0.0.0-20200219090641-e438da1b7640 // indirect
 	golang.org/x/crypto v0.1.0 // indirect
