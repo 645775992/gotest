@@ -15,6 +15,7 @@ require (
 )
 
 require (
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 	github.com/beevik/etree v1.1.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/blang/semver v3.5.1+incompatible // indirect
