@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/beego/beego/v2 v2.0.0
-	github.com/ecnepsnai/web v1.4.0
+	github.com/ecnepsnai/web v1.5.2
 	github.com/uadmin/uadmin v0.4.0
 )
 
@@ -15,7 +15,6 @@ require (
 )
 
 require (
-	gopkg.in/yaml.v3 v3.0.1 // indirect
 	github.com/beevik/etree v1.1.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/blang/semver v3.5.1+incompatible // indirect
