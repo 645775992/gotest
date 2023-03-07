@@ -15,7 +15,6 @@ require (
 )
 
 require (
-	gopkg.in/yaml.v3 v3.0.1 // indirect
 	github.com/beevik/etree v1.1.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/blang/semver v3.5.1+incompatible // indirect
@@ -69,7 +68,7 @@ require (
 	github.com/prometheus/common v0.33.0 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/rs/xid v1.4.0 // indirect
-	github.com/russellhaering/gosaml2 v0.8.1 // indirect
+	github.com/russellhaering/gosaml2 v0.9.0 // indirect
 	github.com/russellhaering/goxmldsig v1.2.0 // indirect
 	github.com/shiena/ansicolor v0.0.0-20200904210342-c7312218db18 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
